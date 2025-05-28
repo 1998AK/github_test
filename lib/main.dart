@@ -35,6 +35,7 @@ class _MyHomePageState extends State<MyHomePage> {
     setState(() {
       debugPrint("new added");
       _counter++;
+      debugPrint("just test");
     });
   }
 
