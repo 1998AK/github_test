@@ -34,8 +34,8 @@ class _MyHomePageState extends State<MyHomePage> {
   void _incrementCounter() {
     setState(() {
       debugPrint("new added");
-      _counter++;
       debugPrint("just test");
+      _counter++;
     });
   }
 
